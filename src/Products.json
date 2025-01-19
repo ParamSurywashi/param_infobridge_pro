@@ -1,0 +1,165 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Banana Queen",
+        "description": "PREBIOTIC + PROBIOTIC SPARKLING DRINK",
+        "cans": 12,
+        "reviews": 50,
+        "price": "3,690.93",
+        "details": "Our fab collab with Nymphia Wind features sweet banana puree, decadent vanilla bean, and fresh brewed marigold flowers. Banana cream for the Banana Queen is a toast to Asian heritage and a celebration of this iconic yellow fruit.",
+        "image": "https://drinkwildwonder.com/cdn/shop/files/Banana_1_1800x1800.png?v=1721349284",
+        "bg-color": "#FEED76",
+        "thumbnils": [
+        "https://drinkwildwonder.com/cdn/shop/files/Banana_1_1800x1800.png?v=1721349284",
+        "https://drinkwildwonder.com/cdn/shop/files/Banana_3_1800x1800.png?v=1721349294",
+        "https://drinkwildwonder.com/cdn/shop/files/Banana_7_1800x1800.png?v=1721410792"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Raspberry Lychee",
+        "description": "PREBIOTIC + PROBIOTIC SPARKLING DRINK",
+        "cans": 12,
+        "reviews": 80,
+        "price": "3,690.93",
+        "details": "Jammy raspberry puree, juicy lychees, and fresh brewed honeysuckle flowers reminiscent of your favorite gummy treats.",
+        "image": "https://drinkwildwonder.com/cdn/shop/files/Raspberry_1_1800x1800.png?v=1714540347",
+        "bg-color": "#FEED76",
+        "thumbnils": [
+        "https://drinkwildwonder.com/cdn/shop/files/Raspberry_1_1800x1800.png?v=1714540347",
+        "https://drinkwildwonder.com/cdn/shop/files/Raspberry_3_1800x1800.png?v=1714540350",
+        "https://drinkwildwonder.com/cdn/shop/files/Raspberry_3_1800x1800.png?v=17145403502"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Strawberry Passion",
+        "description": "PREBIOTIC + PROBIOTIC SPARKLING DRINK",
+        "cans": 12,
+        "reviews": 138,
+        "price": "3,866.69",
+        "details": "Ripe strawberries and tart passion fruit meet freshly brewed hibiscus flowers for a sweet and tropical refresher.",
+        "image": "https://drinkwildwonder.com/cdn/shop/files/Strawberry_1_1800x1800.png?v=1714540479",
+        "bg-color": "#FEED76",
+        "thumbnils": [
+        "https://drinkwildwonder.com/cdn/shop/files/Strawberry_1_1800x1800.png?v=1714540479",
+        "https://drinkwildwonder.com/cdn/shop/files/Strawberry_4_1800x1800.png?v=1714540660",
+        "https://drinkwildwonder.com/cdn/shop/files/Strawberry_3_1800x1800.png?v=1714540660"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Guava Rose",
+        "description": "PREBIOTIC + PROBIOTIC SPARKLING DRINK",
+        "cans": 12,
+        "reviews": 102,
+        "price": "3,690.93",
+        "details": "Tropical pink guava, freshly brewed rose petals, and soothing elderberry for a fruity and floral pink drink.",
+        "image": "https://drinkwildwonder.com/cdn/shop/files/Guava_1_1800x1800.png?v=1714539969",
+        "bg-color": "#FEED76",
+        "thumbnils": [
+        "https://drinkwildwonder.com/cdn/shop/files/Guava_1_1800x1800.png?v=1714539969",
+        "https://drinkwildwonder.com/cdn/shop/files/Guava_4_1800x1800.png?v=1714582652",
+        "https://drinkwildwonder.com/cdn/shop/files/Guava_3_1800x1800.png?v=1714539983"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Pineapple Paradise",
+        "description": "PREBIOTIC + PROBIOTIC SPARKLING DRINK",
+        "cans": 12,
+        "reviews": 93,
+        "price": "3,690.93",
+        "details": "Sun-kissed pineapple, zesty lime, and citrusy tangerine juice for a poolside getaway in a can. A light twist of Sichuan peppercorn rounds out this tropical flavor with a warm hint of spice.",
+        "image": "https://drinkwildwonder.com/cdn/shop/files/Pineapple_1_green_1800x1800.png?v=1722475205",
+        "bg-color": "#FEED76",
+        "thumbnils": [
+        "https://drinkwildwonder.com/cdn/shop/files/Pineapple_1_green_1800x1800.png?v=1722475205",
+        "https://drinkwildwonder.com/cdn/shop/files/Pineapple_4_green_1800x1800.png?v=1722475212",
+        "https://drinkwildwonder.com/cdn/shop/files/Pineapple_3_green_1800x1800.png?v=1722475212"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Mango Gold",
+        "description": "PREBIOTIC + PROBIOTIC SPARKLING DRINK",
+        "cans": 12,
+        "reviews": 75,
+        "price": "7,733.37",
+        "details": "Sweet sun-ripened mangos balanced with fresh brewed turmeric root and tart passion fruit in this tropical refresher.",
+        "image": "https://drinkwildwonder.com/cdn/shop/files/Mango_1_1800x1800.png?v=1714540147",
+        "bg-color": "#FEED76",
+        "thumbnils": [
+        "https://drinkwildwonder.com/cdn/shop/files/Mango_1_1800x1800.png?v=1714540147",
+        "https://drinkwildwonder.com/cdn/shop/files/Mango_4_1800x1800.png?v=1714540167",
+        "https://drinkwildwonder.com/cdn/shop/files/Mango_3_1800x1800.png?v=1714540167"
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Peach Ginger",
+        "description": "PREBIOTIC + PROBIOTIC SPARKLING DRINK",
+        "cans": 12,
+        "reviews": 76,
+        "price": "3,690.93",
+        "details": "Succulent peach and freshly brewed ginger root make this twist on sweet peach tea irresistible.",
+        "image": "https://drinkwildwonder.com/cdn/shop/files/Peach_1_1800x1800.png?v=1714540243",
+        "bg-color": "#FEED76",
+        "thumbnils": [
+        "https://drinkwildwonder.com/cdn/shop/files/Peach_1_1800x1800.png?v=1714540243",
+        "https://drinkwildwonder.com/cdn/shop/files/Peach_2_1800x1800.png?v=1714540247",
+        "https://drinkwildwonder.com/cdn/shop/files/Peach_3_1800x1800.png?v=1714540247"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Variety Pack",
+        "description": "BEST SELLER PACK",
+        "cans": 12,
+        "reviews": 702,
+        "price": "3,866.69",
+        "details": "Can't decide on just one flavor? Experience all 6 prebiotic + probiotics flavors and all their gut friendly benefits! Includes 2 cans of each: Raspberry Lychee, Pineapple Paradise, Strawberry Passion, Mango Gold, Guava Rose and Peach Ginger.",
+        "image": "https://drinkwildwonder.com/cdn/shop/files/Variety_Pack_-_Shark_Tank_2_1800x1800.png?v=1724416169",
+        "bg-color": "#FEED76",
+        "thumbnils": [
+        "https://drinkwildwonder.com/cdn/shop/files/Variety_Pack_-_Shark_Tank_2_1800x1800.png?v=1724416169",
+        "https://drinkwildwonder.com/cdn/shop/files/Variety_Pack_-_6_Flavors_12_Cans___2_1800x1800.png?v=1724415944",
+        "https://drinkwildwonder.com/cdn/shop/files/Variety_Pack_-_6_Flavors_12_Cans___3_1800x1800.png?v=1724415944"
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Botanical Bouquet",
+        "description": "VARIETY PACK",
+        "cans": 12,
+        "reviews": 59,
+        "price": "3,690.93",
+        "details": "A delightful dozen featuring our bestselling floral and fruity favorites. Includes 4 cans of each: Raspberry Lychee, Guava Rose, Strawberry Passion.",
+        "image": "https://drinkwildwonder.com/cdn/shop/files/Variety_Pack_-_6_Flavors_12_Cans_2_1800x1800.png?v=1724415930",
+        "bg-color": "#FEED76",
+        "thumbnils": [
+        "https://drinkwildwonder.com/cdn/shop/files/Variety_Pack_-_6_Flavors_12_Cans_2_1800x1800.png?v=1724415930",
+        "https://drinkwildwonder.com/cdn/shop/files/Variety_Pack_-_6_Flavors_12_Cans___2_1800x1800.png?v=1724415944",
+        "https://drinkwildwonder.com/cdn/shop/files/Variety_Pack_-_6_Flavors_12_Cans___3_1800x1800.png?v=1724415944"
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Shark Tank Bundle",
+        "description": "PREBIOTIC + PROBIOTIC SPARKLING DRINK",
+        "cans": 24,
+        "reviews": 59,
+        "price": "3,690.93",
+        "details": "Try our Shark-Tank featured flavors that had all the Sharks raving... and landed us a deal! Includes 4 cans of each: Raspberry Lychee, Pineapple Paradise, Strawberry Passion, Mango Gold, Guava Rose and Peach Ginger. Discount applied at checkout. One promo per order.",
+        "image": "https://drinkwildwonder.com/cdn/shop/files/VarietyPack-BotanicalBundle_1800x1800.png?v=1714541381",
+        "bg-color": "#FEED76",
+        "thumbnils": [
+        "https://drinkwildwonder.com/cdn/shop/files/VarietyPack-BotanicalBundle_1800x1800.png?v=1714541381",
+        "https://drinkwildwonder.com/cdn/shop/files/BotanicalBouquet2_1800x1800.png?v=1714543455",
+        "https://drinkwildwonder.com/cdn/shop/files/preview_images/97d3672fe45743c68e9f78d626717e11.thumbnail.0000000000_620x.jpg?v=1714543467"
+        ]
+      }
+    ]
+  }
+  
