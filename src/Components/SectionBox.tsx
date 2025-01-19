@@ -1,4 +1,6 @@
 import React,{ useState } from 'react';
+import { IoIosArrowDroprightCircle, IoIosArrowDropleftCircle  } from "react-icons/io";
+
 import data from "../Products.json";
 
 function SectionBox() {
@@ -33,7 +35,7 @@ function SectionBox() {
           onClick={handlePrevClick}
           disabled={currentIndex === 0}
         >
-          &#8592;
+          <IoIosArrowDropleftCircle />
         </button>
         <div className="slider-wrapper">
           <div
@@ -59,7 +61,7 @@ function SectionBox() {
           onClick={handleNextClick}
           disabled={currentIndex >= data.products.length - itemsPerPage}
         >
-          &#8594;
+          <IoIosArrowDroprightCircle />
         </button>
       </div>
 
