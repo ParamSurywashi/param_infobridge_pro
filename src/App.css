@@ -481,7 +481,83 @@ body {
 }
 
 .last-wave{
-  background-color: #facad1;
+  background-color: #ea94a1;
+}
+
+.footer-container {
+  background-color: #2a317d;
+  color: white;
+  padding: 3em;
+  font-family: Helvetica;
+}
+
+.footer-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.footer-column {
+  flex: 1;
+  min-width: 150px;
+}
+
+.footer-column h3 {
+  margin-bottom: 10px;
+  font-size: 28px;
+  text-transform: uppercase;
+}
+
+.footer-column ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-column ul li {
+  margin-bottom: 8px;
+}
+
+.footer-column p,
+.footer-column a {
+  margin-bottom: 8px;
+}
+
+.wholesale-link {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+.wholesale-link:hover {
+  text-decoration: underline;
+}
+
+.brand-section {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.brand-logo {
+  font-size: 24px;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: right;
+  margin-top: 10px;
+  gap: 10px;
+  font-size: 28px;
+}
+
+.g-link:hover {
+  text-decoration: underline;
+}
+.footlogo {
+  color: white;
+  font-size: 32px;
 }
 
 @media (max-width: 768px) {
@@ -529,6 +605,14 @@ body {
 
   .add-to-cart {
     flex-direction: column;
+  }
+  .footer-content {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .footer-column {
+    text-align: center;
   }
 }
 
