@@ -272,7 +272,7 @@ body {
 }
 .tab-btn {
   width: 100%;
-  padding: 0 0.3em;
+  padding: 0.8em 0.5em;
   border: none;
   background-color: transparent;
   cursor: pointer;
@@ -439,10 +439,12 @@ body {
   border: none;
   border-radius: 1rem;
   padding: 10px 15px;
-  font-size: 22px;
+  font-size: 20px;
   cursor: pointer;
   margin-top: 10px;
   width: 100%;
+  text-transform: uppercase;
+  font-weight: bold;
 }
 
 .add-to-cart:hover {

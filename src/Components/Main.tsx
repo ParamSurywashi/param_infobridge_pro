@@ -148,7 +148,7 @@ function Main() {
             <span className="shipping_highlight">FREE SHIPPING!</span>
           </div>
         </div>
-        <div>
+        <div className={productBenifit}>
           <div className="tabs">
             <div>
               <button
@@ -165,7 +165,7 @@ function Main() {
                 className="tab-btn ingredents"
                 type="button"
                 data-target="ingredients"
-                onClick={() => handleBenifits("ingredients")}
+                onClick={() => handleBenifits("ingredents")}
               >
                 Ingredients
               </button>
@@ -175,7 +175,7 @@ function Main() {
                 className="tab-btn nutrition"
                 type="button"
                 data-target="nutritions"
-                onClick={() => handleBenifits("nutritions")}
+                onClick={() => handleBenifits("nutrition")}
               >
                 NUTRITION FACTS
               </button>
@@ -234,7 +234,7 @@ function Main() {
                 </div>
               </div>
             </>
-          ) : productBenifit === "ingredients" ? (
+          ) : productBenifit === "ingredents" ? (
             <>
               <div className="product-tab ingredents">
                 <p className="prod-ingredents-heading">Strawberry Passion</p>
@@ -260,7 +260,7 @@ function Main() {
               </div>
             </>
           ) : (
-            (productBenifit === 'nutritions') ? (<>    
+            (productBenifit === 'nutrition') ? (<>    
                 <div class="tab_pane__inner nutrition">
                   <table>
                     <tbody>

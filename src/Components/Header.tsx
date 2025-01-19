@@ -3,7 +3,7 @@ import { IoIosArrowDown } from "react-icons/io";
 import { FaUser } from "react-icons/fa";
 import { GiShoppingCart } from "react-icons/gi";
 
-function App() {
+function Header() {
   return (
     <div className="header_box">
       <div id="top_header_blue_box">
@@ -46,4 +46,4 @@ function App() {
   );
 }
 
-export default App;
+export default Header;
