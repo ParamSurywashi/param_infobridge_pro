@@ -113,7 +113,7 @@ function Main() {
           </div>
         </div>
 
-        <div className="add-to-cart">
+        <div className="add-to-carts-btn">
           <div className="product-cart">
             <button
               className="cart-plus-minus"

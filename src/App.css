@@ -214,7 +214,7 @@ body {
 .subscribe {
   border-color: #2a317d;
 }
-.add-to-cart {
+.add-to-carts-btn {
   display: flex;
   align-items: center;
   gap: 1rem;
