@@ -478,6 +478,9 @@ body {
   right: 20px;
 }
 
+.last-wave{
+  background-color: #facad1;
+}
 
 @media (max-width: 768px) {
   #top_header_lines {
