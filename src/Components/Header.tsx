@@ -3,9 +3,9 @@ import { IoIosArrowDown } from "react-icons/io";
 import { FaUser } from "react-icons/fa";
 import { GiShoppingCart } from "react-icons/gi";
 
-function Header() {
+function Header({bgcolor}) {
   return (
-    <div className="header_box">
+    <div className="header_box" style={{backgroundColor : bgcolor}}>
       <div id="top_header_blue_box">
         <div id="top_header_lines">
           CYBER MONDAY FREE REUSABLE TOTE WITH EVERY ORDER

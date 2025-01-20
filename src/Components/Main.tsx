@@ -1,8 +1,8 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import data from "../Products.json";
 import { FaStar, FaStarHalfAlt } from "react-icons/fa";
 
-function Main() {
+function Main({HandleMainBGColor}) {
   const [selectedProduct, setSelectedProduct] = useState(data.products[0]);
   const [isSubscription, setIsSubscription] = useState(false);
   const [cartProduct, setCartProduct] = useState(0);
@@ -11,6 +11,12 @@ function Main() {
   const handleProductSelect = (product) => {
     setSelectedProduct(product);
   };
+  useEffect(() => {
+    if (selectedProduct.bgcolor) {
+      HandleMainBGColor(selectedProduct.bgcolor);
+    }
+  }, [selectedProduct, HandleMainBGColor]);
+
   const handleThumbnailClick = (image) => {
     setSelectedProduct((prevProduct) => ({
       ...prevProduct,
@@ -21,7 +27,7 @@ function Main() {
       setProductBenifit(purchases);
   }
   return (
-    <div className="product-page">
+    <div className="product-page" style={{backgroundColor : selectedProduct.bgcolor}}>
       <div className="product-images">
         <img
           className="main-image"
