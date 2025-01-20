@@ -159,9 +159,10 @@ body {
 }
 
 .flavor-buttons {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
   gap: 1rem;
+  margin-top: 1em;
 }
 
 .flavor-btn {
@@ -178,9 +179,11 @@ body {
 }
 
 .flavor-img {
-  width: 70px;
-  height: 70px;
-  margin-top: 2px;
+  width: 100%;
+  max-width: 14vh;
+  height: 15vh;
+  margin-top: 4px;
+  margin-bottom: -1px;
   border-radius: 15%;
   object-fit: cover;
   transform: scale(1.1);
@@ -599,9 +602,6 @@ body {
     text-align: center;
   }
 
-  .flavor-buttons {
-    justify-content: center;
-  }
 
   .add-to-cart {
     flex-direction: column;

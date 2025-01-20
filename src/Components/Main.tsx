@@ -11,7 +11,12 @@ function Main() {
   const handleProductSelect = (product) => {
     setSelectedProduct(product);
   };
-
+  const handleThumbnailClick = (image) => {
+    setSelectedProduct((prevProduct) => ({
+      ...prevProduct,
+      image,
+    }));
+  };
   const handleBenifits = (purchases) => {
       setProductBenifit(purchases);
   }
@@ -30,6 +35,7 @@ function Main() {
               src={img}
               alt={`Thumbnail ${index + 1}`}
               className="thumbnail"
+              onClick={() => handleThumbnailClick(img)}
             />
           ))}
         </div>
